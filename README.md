@@ -1,5 +1,8 @@
 # Dashboard E-Commerce Business✨
 
+## Download File CSV
+[Click Here for Downloading The Data](https://drive.google.com/drive/folders/12Fa8-nv1JwZpjgZXsVL6ps143quCq0Uf?usp=drive_link)
+
 ## Setup Environment - Anaconda
 ```
 conda create --name main-ds python=3.9
